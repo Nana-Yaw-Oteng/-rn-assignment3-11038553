@@ -1,7 +1,7 @@
 import { Image, SafeAreaView, Text,View } from "react-native";
 
 const Greetings = () =>{
-    const image1 = require('../Actiflow/assets/a1ae0913e0ff2083486500681569cc7c.png'); 
+    const image1 = require('../assets/a1ae0913e0ff2083486500681569cc7c.png'); 
     return(
         <SafeAreaView>
         <View style={{ display: "flex", flexDirection: "column", padding: 15 }}>
