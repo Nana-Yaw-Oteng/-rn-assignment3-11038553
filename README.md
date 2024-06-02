@@ -13,6 +13,6 @@
 #
 
 
-![alt text](<../assets/screenshot 1.jpg>)
+![alt text](<./assets/screenshot 1.jpg>)
 #
-![alt text](../assets/screenshot2.jpg)
+![alt text](./assets/screenshot2.jpg)
